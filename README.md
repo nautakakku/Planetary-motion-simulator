@@ -1,7 +1,7 @@
 # Planetary-motion-simulator
 A simulation of the Solar System using verlet integration for 9 bodies, written in Fortran95.
 
-The planetary_motion_simulator-directory contains the necessary files to run the program, input.dat and main.f90. The output file is created based on the input file, which should be in this order:
+The planetary_motion_simulator-directory contains the necessary files to run the program, input.dat and main.f90. The output file is created based on the input file, which should include the following items:
 
 |item            |value           |
 |----------------|----------------|
