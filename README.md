@@ -2,6 +2,7 @@
 A simulation of the Solar System using verlet integration for 9 bodies, written in Fortran95.
 
 The planetary_motion_simulator-directory contains the necessary files to run the program, input.dat and main.f90. The output file is created based on the input file, which should be formatted exactly like the one uploaded:
+
   number of planets (N=9)
   number of steps between each print to stdout (interval=20)
   number of steps between each save to output file (k=1000)
